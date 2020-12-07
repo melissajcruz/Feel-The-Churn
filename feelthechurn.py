@@ -84,3 +84,5 @@ while(True):
                 tavg.clear()
         lastclk = currentclk 
     time.sleep(0.001)
+
+
